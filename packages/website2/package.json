@@ -10,7 +10,7 @@
   "dependencies": {
     "@monosample/lib": "workspace:1.0.0",
     "@monosample/core-ui": "workspace:1.0.0",
-    "axios": "0.21.1",
+    "axios": "0.21.3",
     "core-js": "^3.1.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.6",
@@ -23,8 +23,8 @@
     "@vue/cli-plugin-babel": "^4.0.0",
     "@vue/cli-plugin-router": "^4.0.0",
     "@vue/cli-plugin-typescript": "^4.0.0",
-    "@vue/cli-plugin-unit-jest": "^4.0.0",
-    "@vue/cli-service": "^4.0.0",
+    "@vue/cli-plugin-unit-jest": "^5.0.0",
+    "@vue/cli-service": "^5.0.1",
     "@vue/test-utils": "1.0.0-beta.29",
     "typescript": "~3.6.4",
     "vue-template-compiler": "^2.6.10"
